@@ -8,7 +8,7 @@ ThisBuild / organization := "Chisel-blocks"
 
 // Last two numbers must be the same
 val chiselVersion = "3.5.4"
-val chiselTestVersion = "0.5.6"
+val chiselTestVersion = "0.5.4"
 
 val breezeVersion = "2.0"
 val dspVersion = "1.5.6"
